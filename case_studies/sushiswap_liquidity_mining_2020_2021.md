@@ -2,10 +2,9 @@
 
 ![TVL quality and sustainability metrics](images/tvl_quality_summary.png)
 
----
 > **TL;DR**  
 > SushiSwap is a canonical example of incentive-driven TVL expansion followed by rapid capital decay once emissions subsided.
----
+
 ## Snapshot
 - Average daily TVL growth: **0.006%**
 - TVL volatility: **0.055**
