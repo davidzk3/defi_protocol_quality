@@ -13,6 +13,7 @@ The analysis emphasizes **time-series behavior of TVL**, focusing on growth, vol
 
 ## Repository Structure
 
+```text
 defi_protocol_quality/
 │
 ├─ README.md
@@ -35,6 +36,7 @@ defi_protocol_quality/
 ├─ data_sources.md
 └─ methodology.md
 
+```
 ---
 
 ## Notebook Overview
@@ -68,6 +70,7 @@ The case_studies directory contains focused qualitative analyses that complement
 
 Each case study highlights a distinct TVL behavior pattern observed in practice.
 
+```text
 case_studies/
 ├─ curve.md
 ├─ gmx.md
@@ -75,6 +78,7 @@ case_studies/
 ├─ olympusdao.md
 └─ sushiswap_liquidity_mining.md
 
+```
 Covered themes:
 - Incentive-driven liquidity expansion and decay
 - Sustainable usage-driven TVL
