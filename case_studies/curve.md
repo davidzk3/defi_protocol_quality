@@ -2,6 +2,9 @@
 
 ![TVL quality and sustainability metrics](images/tvl_quality_summary.png)
 
+> **TL;DR**  
+> Curve demonstrates relatively durable, usage-driven TVL with lower volatility, but still experienced significant drawdowns during macro regime shifts.
+
 ## Snapshot
 - Average daily TVL growth: **1.06%**
 - TVL volatility: **0.18**
