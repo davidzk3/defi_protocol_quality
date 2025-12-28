@@ -44,7 +44,7 @@ defi_protocol_quality/
 
 ## Notebook Overview
 
-### Notebook 01 — Data Ingestion
+### Notebook 01: Data Ingestion
 notebooks/01_ingest.ipynb
 
 This notebook establishes the data foundation for the analysis.
@@ -58,7 +58,7 @@ The goal is a transparent and repeatable ingestion pipeline, not a one-off scrap
 
 ---
 
-### Notebook 02 — TVL Quality & Sustainability Metrics
+### Notebook 02: TVL Quality & Sustainability Metrics
 notebooks/02_tvl_quality.ipynb
 
 This notebook computes and analyzes TVL quality metrics, including:
