@@ -2,6 +2,9 @@
 
 ![TVL quality and sustainability metrics](images/tvl_quality_summary.png)
 
+> **TL;DR**  
+> OlympusDAO represents an extreme case where TVL ceased to be a meaningful health metric due to reflexive monetary design and capital collapse.
+
 ## Snapshot
 - Average daily TVL growth: **N/A**
 - TVL volatility: **N/A**
