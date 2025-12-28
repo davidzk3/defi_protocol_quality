@@ -2,6 +2,9 @@
 
 ![TVL quality and sustainability metrics](images/tvl_quality_summary.png)
 
+> **TL;DR**  
+> GMX shows high-quality, fee-backed TVL with comparatively shallow drawdowns, reflecting sustainable derivatives usage rather than incentives.
+
 ## Snapshot
 - Average daily TVL growth: **0.41%**
 - TVL volatility: **0.036**
