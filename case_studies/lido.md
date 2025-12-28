@@ -2,6 +2,9 @@
 
 ![TVL quality and sustainability metrics](images/tvl_quality_summary.png)
 
+> **TL;DR**  
+> Lido exhibits structurally resilient TVL backed by core Ethereum staking demand, with strong post-peak capital retention.
+
 ## Snapshot
 - Average daily TVL growth: **0.67%**
 - TVL volatility: **0.055**
